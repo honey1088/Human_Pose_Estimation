@@ -1,0 +1,17 @@
+# Ignore OpenPose models and large files
+models/
+*.pb
+*.caffemodel
+*.bin
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Ignore log files and temp files
+*.log
+*.tmp
+*.mp4
+*.mov

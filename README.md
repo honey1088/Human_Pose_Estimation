@@ -4,10 +4,10 @@
 This project implements **human pose estimation** using **OpenPose** and provides a **Streamlit-based web app** for processing images and videos. Users can upload files to visualize detected keypoints and download processed results.  
 
 ##  Features  
-✅ Detects human body keypoints from images & videos  
-✅ Web-based interface using **Streamlit**  
-✅ Supports **image & video processing**  
-✅ Allows downloading processed outputs  
+- Detects human body keypoints from images & videos
+- Web-based interface using **Streamlit**  
+- Supports **image & video processing**  
+- Allows downloading processed outputs  
 
 ##  Technologies Used  
 - **Python**  
@@ -16,7 +16,7 @@ This project implements **human pose estimation** using **OpenPose** and provide
 - **TensorFlow/OpenPose**  
 - **NumPy**  
 
-## ⚙️ Installation  
+## Installation  
 To set up the project, run:  
 ```bash
 git clone https://github.com/honey1088/Human_Pose_Estimation
@@ -29,3 +29,4 @@ The `models/` folder is not included in this repository. Please download the req
 
 ##  Usage
 Run: streamlit run app.py
+```
